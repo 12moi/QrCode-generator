@@ -4,7 +4,7 @@ QrCode generator
 ## Description
 This is a QR code generator where an url to be converted into QR code is typed on the form and the QR code is generated and can be scanned or be sent as an image as it is downloadable.
 
-![Alt text](/src/assets/images/img.jpg?raw=true "Optional Title")
+![Alt text](/src/assets/images/home.png?raw=true "Home page")
 ## How to Install and Run QrCode generator
 
 
