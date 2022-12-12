@@ -43,7 +43,7 @@ const QrCode = () => {
             type="text"
             value={url}
             onChange={qrCodeEncoder}
-            placeholder="https://hackernoon.com"
+            placeholder="https://moringaschool.com/"
           />
           <button type="submit" disabled={!url}>
             Download QR code
