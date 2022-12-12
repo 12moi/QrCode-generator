@@ -22,6 +22,7 @@ img {
   align-items: center;
 }
 .container {
+  
   margin-inline: auto;
   max-width: 75rem;
   width: 85%;
