@@ -6,6 +6,7 @@ This is a QR code generator where an url to be converted into QR code is typed o
 
 ![Alt text](/src/assets/images/home.png?raw=true "Home page")
 ## How to Install and Run QrCode generator
+For contribution to this you can fork or clone it then install npm dependencies.
 
 
 ## How to Use the QrCode generator
